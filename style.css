@@ -1,0 +1,9 @@
+* {
+    margin: auto;
+}
+
+.container {
+    width: 1024px;
+    background-color: rgb(239, 255, 170);
+    text-align: center;
+}
